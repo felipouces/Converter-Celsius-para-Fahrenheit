@@ -1,7 +1,0 @@
-C:\Users\felip\Documents\C#\Curso_Alura_C#\Converter _Celsius_para_Fahrenheit\Converter _Celsius_para_Fahrenheit\bin\Debug\Converter _Celsius_para_Fahrenheit.exe.config
-C:\Users\felip\Documents\C#\Curso_Alura_C#\Converter _Celsius_para_Fahrenheit\Converter _Celsius_para_Fahrenheit\bin\Debug\Converter _Celsius_para_Fahrenheit.exe
-C:\Users\felip\Documents\C#\Curso_Alura_C#\Converter _Celsius_para_Fahrenheit\Converter _Celsius_para_Fahrenheit\bin\Debug\Converter _Celsius_para_Fahrenheit.pdb
-C:\Users\felip\Documents\C#\Curso_Alura_C#\Converter _Celsius_para_Fahrenheit\Converter _Celsius_para_Fahrenheit\obj\Debug\Converter _Celsius_para_Fahrenheit.csproj.AssemblyReference.cache
-C:\Users\felip\Documents\C#\Curso_Alura_C#\Converter _Celsius_para_Fahrenheit\Converter _Celsius_para_Fahrenheit\obj\Debug\Converter _Celsius_para_Fahrenheit.csproj.CoreCompileInputs.cache
-C:\Users\felip\Documents\C#\Curso_Alura_C#\Converter _Celsius_para_Fahrenheit\Converter _Celsius_para_Fahrenheit\obj\Debug\Converter _Celsius_para_Fahrenheit.exe
-C:\Users\felip\Documents\C#\Curso_Alura_C#\Converter _Celsius_para_Fahrenheit\Converter _Celsius_para_Fahrenheit\obj\Debug\Converter _Celsius_para_Fahrenheit.pdb
